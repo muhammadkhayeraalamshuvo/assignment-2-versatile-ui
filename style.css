@@ -52,3 +52,24 @@ td{
     color: #FFFFFF80;
     font-size: 14px;
 }
+
+/* for responsive */
+.hamburger-menu{
+    display: none;
+}
+.side-bar{
+    display: block;
+}
+.banner-about{
+    width: 48%;
+}
+.parent-habit{
+    display: flex;
+    
+}
+.habit-img{
+    display: flex; justify-content: center; align-items: center;
+}
+.extra-mile-img{
+    width: 80%;
+}

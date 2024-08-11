@@ -1,0 +1,38 @@
+@media screen and (max-width:500px) {
+    body{
+        background-color: black;
+        max-width: fit-content;
+       
+          
+    }   
+  .navbar-main{
+    margin-top: 20px;
+    padding: 20px;
+  }
+    .hamburger-menu{
+        display: block;
+        
+    }
+    .side-bar{
+        display: none;
+        
+    }
+    .banner{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-left: 20px;
+        
+    }
+    .banner-about{
+      width: 100%;
+    }
+    .parent-habit{
+      display: flex;
+      flex-direction: column;
+    }
+    .extra-mile-img{
+      width: 100%;
+
+    }
+}

@@ -1,7 +1,7 @@
 @media screen and (max-width:500px) {
     body{
         background-color: black;
-        max-width: fit-content;
+        margin: 0 auto;
        
           
     }   
@@ -34,5 +34,38 @@
     .extra-mile-img{
       width: 100%;
 
+    }
+    .bmi-head{
+     margin-left: 30px;
+    }
+    .bmi-calc-chart{
+      width: 100%;
+    }
+    .bmi-calc{
+      width: 100%;
+    }
+    .card{
+      grid-template-columns: repeat(1,1fr);
+      
+    }
+    .footer-1-daddy{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .footer-1{
+      width: 90%;
+    
+    }
+    .footer-2{
+      width: 90%;
+      margin-left: 40px;
+    }
+    .footer-2-child{
+      width: 100%;
+    }
+    .footer-center{
+      justify-content: center;
+      align-items: center;
     }
 }

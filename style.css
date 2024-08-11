@@ -73,3 +73,30 @@ td{
 .extra-mile-img{
     width: 80%;
 }
+.bmi-calc-chart{
+    width: 38%;
+}
+.bmi-calc{
+    width: 55%;
+}
+.card{
+    display: grid; grid-template-columns: repeat(3,1fr); gap: 20px;
+}
+.card-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-1{
+    width: 60%;
+}
+.footer-2{
+    width: 40%;
+}
+.footer-2-child{
+    width: 48%;
+}
+.footer-center{
+    justify-content: center;
+    align-items: center;
+}

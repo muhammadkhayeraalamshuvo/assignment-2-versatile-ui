@@ -71,4 +71,10 @@
     .img-width{
       width: 60%;
     }
+    .banner-shadow-1{
+      left: 20px;
+    }
+    .banner-shadow-2{
+    right: 10px;
+    }
 }

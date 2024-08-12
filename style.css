@@ -103,3 +103,9 @@ td{
 .img-width{
     width: 100%;
 }
+.banner-shadow-1{
+    padding: 20px 20px; display: flex; justify-content: center; align-items: center; gap: 10px; background-color: #ffffff2f; position: absolute; bottom: 50px; left: 50px; border-radius: 10px;
+}
+.banner-shadow-2{
+    padding: 20px 20px;  background-color: #ffffff2f; position: absolute; top: 120px; right: 50px; border-radius: 10px;
+}

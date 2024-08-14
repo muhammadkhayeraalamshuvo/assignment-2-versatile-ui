@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
 
 *{
     margin: 0;
@@ -108,4 +109,17 @@ td{
 }
 .banner-shadow-2{
     padding: 20px 20px;  background-color: #ffffff2f; position: absolute; top: 120px; right: 50px; border-radius: 10px;
+}
+.fashion{
+    font-family: "GFS Didot", serif;
+}
+
+.fashion-1{
+    width: 400px;
+}
+.p-fashion{
+    padding: 50px;
+}
+.fashion-2{
+    width: 40%;
 }

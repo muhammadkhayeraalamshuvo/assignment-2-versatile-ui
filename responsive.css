@@ -1,4 +1,4 @@
-@media screen and (max-width:500px) {
+@media screen and (max-width:576px) {
     body{
         background-color: black;
         margin: 0 auto;
@@ -76,5 +76,14 @@
     }
     .banner-shadow-2{
     right: 10px;
+    }
+    .fashion-1{
+      width: 300px;
+    }
+    .p-fashion{
+      padding: 10px;
+    }
+    .fashion-2{
+      width: 90%;
     }
 }
